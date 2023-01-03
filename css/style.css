@@ -82,7 +82,7 @@ a:hover {color:#eb6654;}
 	position: relative;
 }
 
-h1 a img {margin: 42px 0 0 4px;position: relative;}
+h1 a img {margin: 42px 0 0 4px;position: relative; width: 30%; height: 30%;}
 h1 a img.logo2 {margin:0 0 0 3px;}
 
 /************Content***********/
